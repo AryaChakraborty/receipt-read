@@ -1,0 +1,19 @@
+{
+    "store_name": "Centra",
+    "date_time": "14-02-2020 - 19:16",
+    "total": "\u20ac12.75",
+    "line_items": [
+        {
+            "item_key": "",
+            "item_name": "PRINGLES C&O",
+            "item_value": "\u20ac2.25",
+            "item_quantity": "1"
+        },
+        {
+            "item_key": "",
+            "item_name": "CARLING 8 PACK",
+            "item_value": "\u20ac10.50",
+            "item_quantity": "1"
+        }
+    ]
+}
