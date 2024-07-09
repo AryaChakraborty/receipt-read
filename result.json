@@ -1,18 +1,66 @@
 {
-    "store_name": "Centra",
-    "date_time": "14-02-2020 - 19:16",
-    "total": "\u20ac12.75",
+    "store_name": "REAL SEXAS PRODUC",
+    "date_time": "05/29/21 - 17:59",
+    "total": "191.86",
     "line_items": [
         {
             "item_key": "",
-            "item_name": "PRINGLES C&O",
-            "item_value": "\u20ac2.25",
+            "item_name": "CGT RIESLING 8OZ",
+            "item_value": "10.50",
             "item_quantity": "1"
         },
         {
             "item_key": "",
-            "item_name": "CARLING 8 PACK",
-            "item_value": "\u20ac10.50",
+            "item_name": "CGT RIESLING 5OZ",
+            "item_value": "6.95",
+            "item_quantity": "1"
+        },
+        {
+            "item_key": "",
+            "item_name": "CSJ 8OZ",
+            "item_value": "10.50",
+            "item_quantity": "1"
+        },
+        {
+            "item_key": "",
+            "item_name": "CSJ CAB 8OZ",
+            "item_value": "10.50",
+            "item_quantity": "1"
+        },
+        {
+            "item_key": "",
+            "item_name": "H-CLAMS/H-MUSSEL",
+            "item_value": "13.95",
+            "item_quantity": "1"
+        },
+        {
+            "item_key": "",
+            "item_name": "BLUE POINTS, quantity",
+            "item_value": "11.80",
+            "item_quantity": "1"
+        },
+        {
+            "item_key": "",
+            "item_name": "PERCH",
+            "item_value": "30.95",
+            "item_quantity": "1"
+        },
+        {
+            "item_key": "",
+            "item_name": "SWORDFISH",
+            "item_value": "24.95",
+            "item_quantity": "1"
+        },
+        {
+            "item_key": "",
+            "item_name": "MAINE SCALLOPS",
+            "item_value": "32.95",
+            "item_quantity": "1"
+        },
+        {
+            "item_key": "",
+            "item_name": "SCAMPI PASTA",
+            "item_value": "27.95",
             "item_quantity": "1"
         }
     ]
