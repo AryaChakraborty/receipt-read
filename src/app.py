@@ -8,6 +8,7 @@ hf_token = os.getenv('HF_TOKEN')
 
 # define the values
 target_class_name = "book"
+output_json_dir = "outputs"
 
 model, processor, device = config_model()
 
@@ -30,5 +31,7 @@ receipt_data = json.loads(receipt_data)
 final_data = extract_receipt_info(receipt_data)
 
 # Save the final data to a result.json file
-with open('result.json', 'w') as json_file:
+if not os.path.exists(output_json_dir):
+    os.makedirs(output_json_dir)
+with open(f'{output_json_dir}/result.json', 'w') as json_file:
     json.dump(final_data, json_file, indent=4)
