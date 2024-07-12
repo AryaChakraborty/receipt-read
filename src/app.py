@@ -118,7 +118,7 @@ elif page == "Stored Receipts":
     for receipt in receipts:
         receipt["_id"] = str(receipt["_id"])
         with st.expander(f"Store: {receipt['store_name']} | Date & Time: {receipt['date_time']} | Total: {receipt['total']}"):
-            st.write(f"Receipt ID: {receipt['_id']}")
+            # st.write(f"Receipt ID: {receipt['_id']}")
             st.write("Store Name:", receipt["store_name"])
             st.write("Date & Time:", receipt["date_time"])
             st.write("Total:", receipt["total"])
